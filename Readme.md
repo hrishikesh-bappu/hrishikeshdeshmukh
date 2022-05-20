@@ -6,20 +6,18 @@
 </div>  
   
 
-## <div align="center">I'm Swapnil, a passionate Python developer and data analyst from India 👨‍💻 </div>  
+## <div align="center">I'm Hrishikesh, a passionate Python developer and data analyst from India 👨‍💻 </div>  
 # <div align="center"> I code python... because it is the shortest path from idea to production 🚀</div>  
 
 
 - 🔭 I’m currently working on my **own (Custom) Auto-ML Neural Networks**.
 - 🌱 I’m currently learning **Deep Learning**.
-- 👯 I’m looking to collaborate on open source **Website** with some **AI projects in django framework**.
-- 🤔 I’m looking for help with **deep neural network algorithms documentation**.
-- 💬 Ask me about anything related to **python, R, SQL, Machine learning concepts and projects**.
+- 💬 Ask me about anything related to **Python, C,C++, SQL, Machine learning concepts and projects**.
 - 📫 How to reach me: 
 
-- > Email: er.swapnilchavan@gmail.com
-- > LinkedIn: [sscswapnil](https://www.linkedin.com/in/sscswapnil/) 
-- > Instagram: [sscswapnil](https://www.instagram.com/sscswapnil/) 
+- > Email: hrishikeshdeshmukh06@gmail.com
+- > LinkedIn: [https://www.linkedin.com/in/hrishikesh-deshmukh06011999/) 
+- > Instagram: [sscswapnil](https://www.instagram.com/hrishikesh_bappu/) 
 - 💻 I have worked on **R, Python, Machine Learning models, Image processing,Text analytics, AzureML, Linux Scripting, SQL, MySQL, MongoDB, Git, Elasticsearch, Tableau / Power BI, django, flask** etc..
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I watch **study IQ and 2 Minute paper** videos a lot...
@@ -37,10 +35,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sscswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sscswapnil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sscswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sscswapnil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hrishikesh-deshmukh06011999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hrishikesh_Bappu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12283890/sscswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sscswapnil" height="30" width="40" /></a>
 <a href="https://instagram.com/sscswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sscswapnil" height="30" width="40" /></a>
-<a href="https://medium.com/@ssc.swapnil.mobile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sscswapnil" height="30" width="40" /></a>
+<a href="https://medium.com/@hrishikeshbappu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Hrishikesh_Bappu" height="30" width="40" /></a>
 </p>
 
 
